@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "341415664329",
+    "firebase_url": "https://icmessengerbyclever.firebaseio.com",
+    "project_id": "icmessengerbyclever",
+    "storage_bucket": "icmessengerbyclever.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341415664329:android:a45d9cf5decac66d3fcb18",
+        "android_client_info": {
+          "package_name": "com.clever.icmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341415664329-6gjnf9urrqessj2bsvg09rpjdfn8ma6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeBOLy16ptvBSntyxVWlitDZViOAGRQLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341415664329-6gjnf9urrqessj2bsvg09rpjdfn8ma6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
